@@ -8,9 +8,9 @@ https://medium.com/@fs0c131y/the-old-way-to-decrypt-the-malicious-code-of-camsca
 ## Where did mutter.zip came from to CamScanner?  
 * https://pbs.twimg.com/media/EDERrWyVAAApH9C.png
 * **TODO: Collaboration will be helpful here**
-** for how long CamScanner is infected?
-** any other widespread apps suffers from this?
-** INTSIG Information Co. (CamScanner publisher) claims it came from AdHub
+* * for how long CamScanner is infected?
+* * any other widespread apps suffers from this?
+* * INTSIG Information Co. (CamScanner publisher) claims it came from AdHub
 
 ## Fetched DEX files by mutter
 * I didn't managed to hunt any at the moment
