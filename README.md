@@ -1,5 +1,6 @@
 # CamScanner-mutter
 mutter.zip is an encrypted resource found in CamScanner lately. It's actually a DEX file which acts as a DEX fetcher&loader.
+This repo is for a collaborative study to gain more information, payloads and explanations regard it.
 
 ## Previous work
 https://securelist.com/dropper-in-google-play/92496/
@@ -15,8 +16,8 @@ https://medium.com/@fs0c131y/the-old-way-to-decrypt-the-malicious-code-of-camsca
 ## Fetched DEX files by mutter
 * I didn't managed to hunt any at the moment
 * **TODO: Collaboration will be helpful here**
+* Seems like the fetched and loaded payloads contians "dexopt" in their names, scan your device for files with this substring and share!
 
 This repo continues previous work on CamScanner injected.
 I share my decompiltion and strings decryption work in order to get more people collaborate on this case.
-
 #MalwareMustDie
